@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.container li {
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: black;
+  color: yellow;
+  list-style-type: none;
+  width: 400px;
+}
